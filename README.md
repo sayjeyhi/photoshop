@@ -1,6 +1,6 @@
 # Browser side photo edit
 
-> 🖼 javascript solution to edit pictures
+> 🖼 javascript solution to edit pictures with angular
 
 
 ### Install
@@ -8,10 +8,10 @@
 yarn install
 ```
 
-###using gulp
+### using gulp
 this project is using `gulp` so for edit some thing , edit `gulpfile.js`
 
 
-###demo
+### demo
 it is all ready to open , so open the `index.html` file
 
